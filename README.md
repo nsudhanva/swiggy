@@ -3,7 +3,7 @@
 
 ### Jupyter Notebook 
 
-Checkout: ```index.ipynb```
+Checkout: [index.ipynb](https://github.com/nsudhanva/swiggy/blob/master/index.ipynb)
 
 ### Jupyter Notebook (online)
 
